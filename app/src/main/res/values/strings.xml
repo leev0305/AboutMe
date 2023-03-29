@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">AboutMePracticalG356</string>
+    <string name="name">Lee Vese</string>
+    <string name="yellow_star">Yellow Star</string>
+    <string name="bio">Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        \n Curabitur ante ipsum, maximus eu libero id, placerat tincidunt leo.
+        \n\n Morbi a nisi placerat, ultrices urna quis, tincidunt magna. Nam quis diam
+        \n\n quis arcu lacinia dignissim quis a nunc. Quisque id lobortis ex. Integer
+        \n\n vitae efficitur magna, porttitor volutpat nulla. Maecenas velit nibh,
+        \n\n ullamcorper rhoncus ante vel, rutrum tempus nisi. Cras blandit dictum ultrices.
+        \n\n Interdum et malesuada fames ac ante ipsum primis in faucibus. Sed rhoncus feugiat
+        \n\n semper. Sed blandit elit dui, in vestibulum ipsum faucibus id. Nulla sit amet imperdiet est.
+    </string>
+    <string name="what_is_your_nickname">What is your nickname</string>
+    <string name="done">Done</string>
+</resources>
